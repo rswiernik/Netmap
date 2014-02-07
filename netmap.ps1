@@ -6,7 +6,8 @@
 # running unsigned scripts. Since it is unreasonable
 # to have a self signed cert and install that on every
 # time you come to lab, you'll have to enable this
-# option yourself. Simply 
+# option yourself. Simply execute this command in powershell:
+# Set-ExecutionPolicy Unrestricted
 
 write-host '== DRIVE MOUNT ==
 
