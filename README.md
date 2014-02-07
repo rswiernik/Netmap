@@ -1,6 +1,5 @@
 Netmap
 ======
-Written by Reed Swiernik
 
 Simple net use script with secure user/pass wrapper to be used to connect to Cylon or Colonial in the Sys Admin lab at RIT.
 
