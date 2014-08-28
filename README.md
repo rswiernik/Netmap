@@ -5,10 +5,11 @@ Simple net use script with secure user/pass wrapper to be used to connect to Cyl
 
 
 **PLEASE READ**
->On most systems powershell will prevent you from
->running unsigned scripts. Since it is unreasonable
->to have a self signed cert and install that on every
->time you come to lab, you'll have to enable this
->option yourself. 
+On most systems powershell will prevent you from
+running unsigned scripts. Since it is unreasonable
+to have a self signed cert and install that on every
+time you come to lab, you'll have to enable this
+option yourself. 
 
-Simply execute this command in powershell: `Set-ExecutionPolicy Unrestricted`
+Simply execute this command in powershell:
+`Set-ExecutionPolicy Unrestricted`
